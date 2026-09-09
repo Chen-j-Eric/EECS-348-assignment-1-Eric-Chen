@@ -1,3 +1,22 @@
+/*
+  name: EECS 348 Assignment 1 
+  purpose: C program that picks a number between 1 and 10
+  inputs: integers from user
+  outputs: prints to console whether the user guess the secret number or not
+  within 3 attempts
+  collaborators: Claude Sonnet 5 thinking medium , Eric Chen
+  author: Eric Chen
+  creation date: 09/08/2026
+
+  
+    prologue comments
+    adding comments to all lines
+    Can handle non positive numbers, but not ints because it cycles through the floor loop until it reaches loss case
+*/
+
+
+
+
 #include <stdio.h>
 
 int main() {
