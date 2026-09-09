@@ -11,7 +11,7 @@
   
     prologue comments
     adding comments to all lines
-    Can handle non positive numbers, but not ints because it cycles through the floor loop until it reaches loss case
+    Can handle non positive numbers, but not ints because it cycles through the floor loop until it reaches loss crash
 */
 
 
