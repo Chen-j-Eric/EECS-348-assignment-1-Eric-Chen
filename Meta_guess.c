@@ -4,7 +4,7 @@
   inputs: integers from user
   outputs: prints to console whether the user guess the secret number or not
   within 3 attempts
-  collaborators: Meta Spark Thinking 1.1, Claude
+  collaborators: Meta Spark Thinking 1.1, Eric Chen
   author: Eric Chen
   creation date: 09/0282026
 
