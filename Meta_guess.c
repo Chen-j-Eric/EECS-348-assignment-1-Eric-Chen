@@ -1,3 +1,24 @@
+/*
+  name: EECS 348 Assignment 1 
+  purpose: C program that picks a number between 1 and 10
+  inputs: integers from user
+  outputs: prints to console whether the user guess the secret number or not
+  within 3 attempts
+  collaborators: Meta Spark Thinking 1.1, Claude
+  author: Eric Chen
+  creation date: 09/0282026
+
+  
+    prologue comments
+    adding comments to all lines
+    Can handle non ints however it crashes
+*/
+
+
+
+
+
+
 #include <stdio.h>
 
 int main() { // starts main function 
